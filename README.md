@@ -3,4 +3,4 @@ A testing/educational Hello World!
 
 Hi, guys!
 
-I am Jordan and I am shit at coding!
+I am Jordan and I am not good at coding!
